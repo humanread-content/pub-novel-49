@@ -1,0 +1,69 @@
+version: 1
+title: 'Taos Geschichtengarten: Beine für eine Schlange'
+slug: translation-42-de-6e60b2
+summary: Ahe ist zuerst mit seiner Schlange fertig und malt ihr dann Beine. Während
+  Tao noch am Schwanz arbeitet, verändert sich sein Bild. Sechs Szenen über Fantasie,
+  den Sinn einer Aufgabe und den richtigen Moment zum Aufhören.
+cover_color: '#458f87'
+cover_asset: assets/d7496234459b0c1a3eb77bdc8abc839292c91665ef6ae745a5e6638ae13548f2.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: de
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: ecb1b6f51aa267b32a5e63992981305897f16ec7a8f9cbec5eb0d7e64a6cd825
+  source_novel_id: 42
+  source_slug: novel-ffc97f0b-0aa517
+  source_title: 小桃的成語小院：畫蛇添足
+  source_version_id: 82
+  target_language: de
+  translator: Humanread Founder
+chapters:
+- id: 803
+  title: Heute malen wir eine Schlange
+  position: 1
+  file: chapters/0001-803.html
+  format: sandbox-html-css
+  share_card: null
+- id: 804
+  title: Der erste Pinsel hält an
+  position: 2
+  file: chapters/0002-804.html
+  format: sandbox-html-css
+  share_card: null
+- id: 805
+  title: Zwei Beine und noch zwei
+  position: 3
+  file: chapters/0003-805.html
+  format: sandbox-html-css
+  share_card: null
+- id: 806
+  title: Zwei Blätter nebeneinander
+  position: 4
+  file: chapters/0004-806.html
+  format: sandbox-html-css
+  share_card: null
+- id: 807
+  title: Sie sollte gar nicht rennen
+  position: 5
+  file: chapters/0005-807.html
+  format: sandbox-html-css
+  share_card: null
+- id: 808
+  title: Auch dieses Bild bleibt
+  position: 6
+  file: chapters/0006-808.html
+  format: sandbox-html-css
+  share_card: null
